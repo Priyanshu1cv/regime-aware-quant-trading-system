@@ -1,1 +1,41 @@
+# Clean Data Folder
+
+This folder contains the cleaned and processed data used for analysis and modeling.
+
+The data here is prepared from the raw data after applying necessary cleaning steps.
+
+---
+
+## 📊 Contents
+
+The clean data includes:
+
+- Cleaned NIFTY 50 spot data
+- Aligned futures and options data
+- Feature engineered datasets ready for strategy and ML models
+
+---
+
+## 🛠 Data Processing Steps
+
+The following steps are applied to raw data before storing it here:
+
+- Removal of duplicate records
+- Handling missing values
+- Timestamp alignment
+- Feature engineering
+
+---
+
+## 📌 Note
+
+- Clean data is used directly in the Jupyter notebooks
+- Any changes in raw data require reprocessing
+
+---
+
+## 👤 Author
+
+Priyanshu Maheshwari  
+Roll No.: 24/SCA/MCA/038
 
