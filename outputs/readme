@@ -1,1 +1,39 @@
+# Images Folder
+
+This folder contains images and visual outputs used in the project.
+
+These images are mainly used for documentation, reports, and presentations.
+
+---
+
+## 🖼 Types of Images
+
+- Equity curve plots
+- Drawdown charts
+- Regime visualization plots
+- Feature importance charts
+- Outlier trade analysis graphs
+
+---
+
+## 📊 Usage
+
+The images in this folder are:
+
+- Included in the project report
+- Used in PowerPoint presentations
+- Referenced in the GitHub README
+
+---
+
+## 📌 Note
+
+Images are generated from the Jupyter notebook in the notebooks folder.
+
+---
+
+## 👤 Author
+
+Priyanshu Maheshwari  
+Roll No.: 24/SCA/MCA/038
 
