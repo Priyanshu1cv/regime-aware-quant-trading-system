@@ -1,1 +1,40 @@
+# Raw Data Folder
+
+This folder contains the raw data used in the project before any processing.
+
+The data in this folder is not cleaned or modified and represents the initial form of the dataset.
+
+---
+
+## 📊 Contents
+
+The raw data includes:
+
+- NIFTY 50 spot price data at 5-minute interval
+- Synthetic futures data created from spot prices
+- Synthetic options related data such as IV and PCR
+
+---
+
+## 🛠 Purpose
+
+The purpose of this folder is to:
+
+- Store original data safely
+- Maintain a clear separation between raw and processed data
+- Allow reproducibility of the data processing steps
+
+---
+
+## 📌 Note
+
+- Raw data should not be directly used for analysis
+- Cleaning and feature preparation are done before modeling
+
+---
+
+## 👤 Author
+
+Priyanshu Maheshwari  
+Roll No.: 24/SCA/MCA/038
 
